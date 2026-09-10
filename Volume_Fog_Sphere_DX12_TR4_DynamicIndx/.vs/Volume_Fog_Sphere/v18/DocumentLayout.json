@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|solutionrelative:Volume_Fog_Sphere\\MeshManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\d3dUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|solutionrelative:Volume_Fog_Sphere\\d3dUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BCA55B-90D8-4069-8B84-46BB566D6643}|Volume_Fog_Sphere\\Volume_Fog_Sphere.vcxproj|solutionrelative:Volume_Fog_Sphere\\MeshManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "d3dUtil.cpp",
+              "DocumentMoniker": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\d3dUtil.cpp",
+              "RelativeDocumentMoniker": "Volume_Fog_Sphere\\d3dUtil.cpp",
+              "ToolTip": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\d3dUtil.cpp",
+              "RelativeToolTip": "Volume_Fog_Sphere\\d3dUtil.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T21:06:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeshManager.h",
+              "DocumentMoniker": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.h",
+              "RelativeDocumentMoniker": "Volume_Fog_Sphere\\MeshManager.h",
+              "ToolTip": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.h",
+              "RelativeToolTip": "Volume_Fog_Sphere\\MeshManager.h",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAlwPMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T19:47:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeshManager.cpp",
+              "DocumentMoniker": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.cpp",
+              "RelativeDocumentMoniker": "Volume_Fog_Sphere\\MeshManager.cpp",
+              "ToolTip": "C:\\Users\\black4\\Desktop\\Volume_Fog_Sphere_DX12_TR4_DynamicIndx\\Volume_Fog_Sphere\\MeshManager.cpp",
+              "RelativeToolTip": "Volume_Fog_Sphere\\MeshManager.cpp",
+              "ViewState": "AgIAADsCAAAAAAAAAAAlwEICAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T06:12:17.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
